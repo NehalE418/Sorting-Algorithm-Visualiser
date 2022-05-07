@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+#canvas{
+    position: relative;
+    border-top: 1px solid white;
+    height: 620px;
+    margin: auto;
+    width: 920px;
+}
+.bar{
+    animation-fill-mode: forwards;
+    position: absolute;
+    float: left; 
+    /* background-color: blue; */
+}
